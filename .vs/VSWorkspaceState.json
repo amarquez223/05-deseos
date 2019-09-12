@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\tab1",
+    "\\src\\app\\tab2",
+    "\\src\\app\\tabs"
+  ],
+  "SelectedNode": "\\src\\app\\tabs\\tabs.router.module.ts",
+  "PreviewInSolutionExplorer": false
+}
